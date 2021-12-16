@@ -1,0 +1,27 @@
+.country__details__page{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.country__details_item{
+    min-width: fit-content;
+    padding: 20px 50px;
+    width: 30vw;
+    margin: 100px auto;
+    background-color: #fff;
+    border-radius: 5px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+h1, p{
+    background-color: #fff;
+}
